@@ -2,7 +2,7 @@
 - 👀 I’m interested in html and javascript  
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate who ever are you u can teach mee 
-- 📫 How to reach me discord phiyunn
+- 📫 How to reach me discord
 
 <!---
 frxcyy/frxcyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
